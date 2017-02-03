@@ -4,9 +4,9 @@ import Post from './App';
 import './index.css';
 
 const post = {
-  title: "Baby's First Post",
-  author: "Baby",
-  body: "Look at me I'm a posting baby.",
+  title: "My First Post",
+  author: "Joe Schmo",
+  body: "Look at me I am a post.",
   comments: [
     "First!",
     "Great post",
