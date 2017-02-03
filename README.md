@@ -119,5 +119,3 @@ Use a form to take in user input.
 
 > **NOTE:** You're starting to mock Angular's two-way data binding!
 
-
-
